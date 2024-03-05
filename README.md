@@ -1,1 +1,1 @@
-[今朝图床](https://image-resources.vercel.app/)
+[图床](https://image-resources.vercel.app/)
